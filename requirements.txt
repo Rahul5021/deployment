@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+nbformat
+scikit-learn
+dill
+flask
+python-dotenv
+requests
+-e .
